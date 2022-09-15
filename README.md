@@ -3,7 +3,7 @@ The official rubpy repository, unofficial and high-speed library for rubika...
 # how to install library
 Enter the following command to install the library in your terminal
 ```
-pip install rubpy
+pip install rubi
 ```
 # Web Socket Example
 ```
